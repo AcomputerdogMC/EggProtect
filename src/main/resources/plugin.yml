@@ -1,5 +1,5 @@
-name: EggProtect
-version: 0.0.2
+name: ${name}
+version: ${version}
 description: Stop dragon egg from teleporting
 author: acomputerdog
 main: net.acomputerdog.eggprotect.PluginEggProtect
