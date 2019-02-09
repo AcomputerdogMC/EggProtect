@@ -10,6 +10,9 @@ import org.bukkit.event.block.BlockDamageEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/**
+ * Plugin main class
+ */
 public class PluginEggProtect extends JavaPlugin implements Listener {
 
     @Override
